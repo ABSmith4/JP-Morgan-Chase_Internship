@@ -7,7 +7,7 @@ Patch files are located within each task module
 https://www.theforage.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 ## Certificate of Completion
-![](./Images/JPMorgan Chase_completion_certificate.png)
+![Certificate](../Images/JPMorgan%20Chase_completion_certificate.png)
 
 ### Contact for any Queries:
 Smith.Ahmad3@gmail.com
